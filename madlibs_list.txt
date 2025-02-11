@@ -3,11 +3,11 @@
 3. Adjective
 4. Color
 5. Month
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. 5
+7. girls
+8. boys
+9. high school
+10. living room
 11. Liquid
 Coffee
 12. Adjective
@@ -18,9 +18,9 @@ Glass
 Watching movies
 15. Adverb
 Happily
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
-21. Your Name
+16. 9
+17. min
+18. working
+19. happy
+20. car
+21. jaemin
