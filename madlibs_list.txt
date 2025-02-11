@@ -9,15 +9,10 @@
 9. Noun
 10. Room Name
 11. Liquid
-       Coffee
 12. Adjective
-       Happy
 13. Material
-       Glass
 14. Activity
-       Watch movies
 15. Adverb
-       Beautifully
 16. Number
 17. Unit of Time
 18. Different Activity
