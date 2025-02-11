@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Jojo
+2. Big
+3. Sweet
+4. Green
+5. January
 6. 5
 7. girls
 8. boys
@@ -17,7 +17,6 @@ Glass
 14. Activity
 Watching movies
 15. Adverb
-Happily
 16. 9
 17. min
 18. working
